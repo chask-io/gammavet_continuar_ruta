@@ -20,7 +20,7 @@ logger.setLevel(logging.INFO)
 
 ACTION_NAME = "continuar"
 ACTOR_LAMBDA = "gammavet_continuar_ruta"
-DEFAULT_FUNCTION_UUID = "00000000-0000-4000-8000-000000000002"
+DEFAULT_FUNCTION_UUID = "6bbfeb99-2e97-425e-8adb-dc2828c5d059"
 
 
 class FunctionBackend:
